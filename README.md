@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Nodejs, Reactjs, Tailwindcss, Mongodb**
 
-- 📫 How to reach me **krati.official.19@gmail.com**
+- 📫 Reach out to me on: **krati.official.19@gmail.com**
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/c0b1ae06/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/c0b1ae06/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
