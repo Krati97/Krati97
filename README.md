@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my experiences are available at [https://krati-portfolio-gules.vercel.app/](https://krati-portfolio-gules.vercel.app/)
+- 👨‍💻 My experiences are available at [https://krati-portfolio-gules.vercel.app/](https://krati-portfolio-gules.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Nodejs, Reactjs, Tailwindcss, Mongodb**
 
