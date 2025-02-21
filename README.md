@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Krati Maheshwari</h1>
-<h3 align="center">A professional FullStack developer based in Canada.</h3>
+<h3 align="center">A FullStack developer based in Canada.</h3>
 
 - 🔭 I’m currently working on [my protfolio](https://krati-portfolio-gules.vercel.app/)
 
