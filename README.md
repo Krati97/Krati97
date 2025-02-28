@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my protfolio](https://krati-portfolio-gules.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently based in **Vancouver (Canada)**
 
 - 👨‍💻 My experiences are available at [https://krati-portfolio-gules.vercel.app/](https://krati-portfolio-gules.vercel.app/)
 
-- 💬 Ask me about **JavaScript, Nodejs, Reactjs, Tailwindcss, Mongodb**
+- 💬 Ask me about **JavaScript, TypeScript, Nodejs, Reactjs, Tailwindcss, Mongodb**
 
 - 📫 Reach out to me on: **krati.official.19@gmail.com**
 
