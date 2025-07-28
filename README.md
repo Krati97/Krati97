@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Krati Maheshwari</h1>
 <h3 align="center">A FullStack JavaScript developer.</h3>
 
-- 🔭 I’m currently working on [DSA](https://github.com/Krati97/otpbuilder)
+- 🔭 I’m currently working on [DSA](https://github.com/Krati97/dsa)
 
 - 🌱 I’m currently based in **Vancouver (Canada)**
 
